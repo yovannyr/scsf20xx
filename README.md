@@ -1,5 +1,5 @@
-# scsf20xx
-Smart Client Software Factory for Visual Studio 2012, 2013 and 2015
+# scsf2019
+Smart Client Software Factory for Visual Studio 2019 and .Net 3.0
 
 ![](https://cloud.githubusercontent.com/assets/958768/25089850/5d688898-2380-11e7-90f0-23751008a595.png)
 
